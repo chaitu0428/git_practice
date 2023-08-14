@@ -1,0 +1,53 @@
+TOOLS:
+VS Code
+Salesforce CLI
+Salesforce Inspector
+
+Environments:
+Dev Sand BOX
+UAT SAND BOX (FULL Sand BOX)
+Production 
+
+
+Dev Opps Process
+----------------
+GIT
+Jenkins
+
+
+1) Water fall Methodology  ---> 6 or 1 or 2 years
+2) Agaile Methodology
+
+
+Project Management Tool:
+------------------------
+JIRA
+SPRINT  --- @ 2 weeks ----- some feature release --- 2 weeks production deployment
+Story Points -- 10 for a sprint
+
+
+3 stories -- 3 tasks  ----  10 story point
+
+
+1-- 5 points    priority high
+2---3 points    priority  low
+3---2 point     priority medium
+
+
+2---3 points    priority  low --- back log-- next sprint 
+
+
+
+1) PO ----> PRoduct OWNER   --MANAGER
+2) SM -----> SCRUM MASTER  ---> TL
+3) DVE TEAM ----> 
+
+
+Sprint starting meeting
+
+Sprint ending(Retro Spectrive) meeting
+
+Daily Scrum Call:
+1) what you did yesterday
+2) what you are going to do today
+3) is their any impediments
