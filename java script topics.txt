@@ -1,0 +1,84 @@
+JAVA SCRIPT:-
+
+
+NAMED FUNCTIONS AND CALLBACK FUNCTIONS:-                             
+
+                                                                    
+
+let sumfun=(a,b)=>{
+    return a+b;
+}
+let add=sumfun(10,20);
+console.log(add);
+
+function hello(a,b,callback){
+   let sumaddcallback=callback(a,b);
+   console.log(sumaddcallback);
+}
+
+
+hello(10,30,(a,b)=>{
+    return a+b;
+})
+
+
+ARRAY FUNCTIONS:-
+
+
+let arr=[1,5,9,4,3];
+console.log(arr);
+
+let arrresult=arr.filter(Element=>{
+    return Element>4;
+})
+console.log(arrresult);
+
+let arrResultmap=arr.map(Element=>{
+    return Element*3;
+})
+console.log(arrResultmap);
+
+Foreach()
+every()
+some()
+sort()
+
+
+ STRING FUNCTIONS:-
+
+let str='             welcome to the bruno house              ';
+console.log(str.length);
+console.log(str.toUpperCase().trim());
+console.log(str.toLowerCase().trim());
+console.log(str.includes('bruno'));
+
+SPREAD OPERATOR:-
+    It is used to cloning the array,object and so on...
+
+BROWSER EVENTS:-
+
+Event	Description
+onchange	An HTML element has been changed
+onclick	The user clicks an HTML element
+onmouseover	The user moves the mouse over an HTML element
+onmouseout	The user moves the mouse away from an HTML element
+onkeydown	The user pushes a keyboard key
+onload	The browser has finished loading the page
+
+EVENT LISTENER:-
+     Event listeners are nothing but 'doing manual events' i.e., onclick,onmoveon and so on...
+      ex:- addeventlistener, removeeventlistener.....
+  
+MODULE IMPORT EXPORT:-
+       We can call one java script in another java script by using module export import.
+
+
+
+
+
+
+
+
+
+
+

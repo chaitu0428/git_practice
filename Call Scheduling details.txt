@@ -1,0 +1,102 @@
+Call Scheduling:
+
+
+Collage Details:
+*Btech Collage           :-ST.MARK EDUCTIONAL INSTITUTIONS AND SOCIETY GROUP OF INSTITUTIONS
+*Btech University        :-JAWAHARLAL NEHRU UNIVERSITY ANANTAPUR
+*Btech Passed out Year   :-2020
+
+
+Company Details: 
+*Experience In Salesforce :- 2 YEARS
+*Company Name             :-COMPUSOL SOFTWARE PRIVATE SOLUTIONS
+*Company Address          :-
+      Compusol Software Private Limited is a Private incorporated on 04 February 2000. It is classified as Non-govt company and is registered at Registrar of Companies, Bangalore. Its authorized share capital is Rs. 5,000,000 and its paid up capital is Rs. 3,770,000. It is inolved in Software publishing, consultancy and supply [Software publishing includes production, supply and documentation of ready-made (non-customized) software, operating systems software, business & other applications software, computer games software for all platforms. Consultancy includes providing the best solution in the form of custom software after analyzing the user?s needs and problems. Custom software also includes made-to-order software based on orders from specific users. Also, included are writing of software of any kind following directives of the users; software maintenance, web-page design].
+
+Compusol Software Private Limited's Annual General Meeting (AGM) was last held on 30 September 2009 and as per records from Ministry of Corporate Affairs (MCA), its balance sheet was last filed on 31 March 2009.
+
+Directors of Compusol Software Private Limited are Prashanth Manjunath Kumar, Sharmila Ramesh and Subramanya Raghunath Jois.
+
+Compusol Software Private Limited's Corporate Identification Number is (CIN) U72200KA2000PTC026334 and its registration number is 26334.Its Email address is jois@compusol.in and its registered address is # 28, P.T STREET, BASAVANAGUDI BANGALORE Bangalore KA 560004 IN .
+
+Current status of Compusol Software Private Limited is - Active.
+
+*Company Working from- from date --- to Till Date
+
+
+Notice Period: 
+What Is your Company Notice period 2 Months
+Are You Servicing Notice Period---   Yes
+Are you able to join in immediate or 1 month---yes
+When are you put papers  
+what is your last working date
+Mail Proof
+Do you have trail Head account Yes (Explorer)
+Do you have any certifications No
+
+
+
+
+
+
+
+
+
+Technical Skills: 
+Admin:
+Experience (2Years)
+Apex:
+Experience (2 Years)
+Lightning: 
+Lightning LWC (Worked experience 1.5 Years)
+Lightning Aura (Not Worked)
+VF Pages (Not Worked)
+
+Integration Rest API Integration: - 1 Year Experience in Rest Integration
+---------------------------------
+(Call Outs (Consuming) && Producing Services)
+Consuming: - calling external service from salesforce
+Producing: - External services interact with salesforce
+Soap Integration: - No Exposure (Not Worked)
+
+
+Development Tools Used: 
+1) Vs Code (IDE)
+2) Developer Console
+3) Salesforce CLI or Salesforce DX
+4) Data Loader and Import wizard and Work Bench
+
+Clouds Worked:
+Sales Cloud
+Service Cloud
+
+
+
+
+Service Cloud Features Worked: 
+Case Management
+Approval Process
+Entitlement and Mile Stones
+Knowledge Attributes
+
+Roles And Responsibilities:
+Project Management Tool: - Jira (Agile Process)
+Sprint: - 2 weeks
+User Stories: - work or task or requirement to work or bug
+Sprint start Meeting (Retrofit Meeting Back Log: - As a part of sprint any work not completed treated as sprint and moved to next sprint as back log
+
+
+Above Extra points
+--------------------------------------------------------------------------------------------------------------------------------------
+1) As a part sprint we get 10 story points. user stories (2 weeks 10 working days) , 4 tasks
+2) analysing user stories and get requirement clarification from PO (Product Owner (Team Lead))
+3) Start Development
+4) Upon Development Completion. will Do Developer Testing
+5) Moving Changes to UAT Org (or) UAT Sand Box
+
+Deployment Tools: 
+Change Set (In Bound Change Set and Out Bound Change Set)
+Jenkins
+
+Version Control Toll (Code storing repository):
+GIT
